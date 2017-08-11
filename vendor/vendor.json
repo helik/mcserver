@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Ecn0UexWoWRG6Di0wdWvIfms/jc=",
+			"path": "github.com/go-ini/ini",
+			"revision": "3d73f4b845efdf9989fffd4b4e562727744a34ba",
+			"revisionTime": "2017-06-27T23:12:24Z"
+		},
+		{
+			"checksumSHA1": "q8VfSvQ6fZY+QwtlMPtQsJrNews=",
+			"path": "github.com/minio/go-homedir",
+			"revision": "21304a94172ae3a09dee2cd86a12fb6f842138c7",
+			"revisionTime": "2016-02-15T11:55:11Z"
+		},
+		{
+			"checksumSHA1": "MeuDRes2Be9HbgKzAZnz6lZAF48=",
+			"path": "github.com/minio/minio-go",
+			"revision": "1a09415eed6025360c2c3142f92d3bcf339f873d",
+			"revisionTime": "2017-08-04T03:07:51Z"
+		},
+		{
+			"checksumSHA1": "qPt3l9ZUjG0J4oZNTSrKy17rts0=",
+			"path": "github.com/minio/minio-go/pkg/credentials",
+			"revision": "1a09415eed6025360c2c3142f92d3bcf339f873d",
+			"revisionTime": "2017-08-04T03:07:51Z"
+		},
+		{
+			"checksumSHA1": "pggIpSePizRBQ7ybhB0CuaSQydw=",
+			"path": "github.com/minio/minio-go/pkg/encrypt",
+			"revision": "1a09415eed6025360c2c3142f92d3bcf339f873d",
+			"revisionTime": "2017-08-04T03:07:51Z"
+		},
+		{
+			"checksumSHA1": "3tl2ehmod/EzXE9o9WJ5HM2AQPE=",
+			"path": "github.com/minio/minio-go/pkg/policy",
+			"revision": "1a09415eed6025360c2c3142f92d3bcf339f873d",
+			"revisionTime": "2017-08-04T03:07:51Z"
+		},
+		{
+			"checksumSHA1": "iEpQa89Q4IbHhfMW1qYJMOy9jN4=",
+			"path": "github.com/minio/minio-go/pkg/s3signer",
+			"revision": "1a09415eed6025360c2c3142f92d3bcf339f873d",
+			"revisionTime": "2017-08-04T03:07:51Z"
+		},
+		{
+			"checksumSHA1": "gcNWZiiFgc29tyKCYMtQ1RpTezE=",
+			"path": "github.com/minio/minio-go/pkg/s3utils",
+			"revision": "1a09415eed6025360c2c3142f92d3bcf339f873d",
+			"revisionTime": "2017-08-04T03:07:51Z"
+		},
+		{
+			"checksumSHA1": "maUy+dbN6VfTTnfErrAW2lLit1w=",
+			"path": "github.com/minio/minio-go/pkg/set",
+			"revision": "1a09415eed6025360c2c3142f92d3bcf339f873d",
+			"revisionTime": "2017-08-04T03:07:51Z"
+		}
+	],
+	"rootPath": "gitlab.com/helik/random-go/mcserver"
+}
